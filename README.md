@@ -1,4 +1,7 @@
-### Hi there 👋
+
+Languages
+
+<img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/>
 
 <!--
 **YongSeok-Jang/YongSeok-Jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

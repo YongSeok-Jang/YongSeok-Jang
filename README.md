@@ -19,4 +19,4 @@
 ![VisualStudio Code](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=YongSeok-Jang&count_private=true)](https://github.com/YongSeok-Jang/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongSeok-Jang)](https://github.com/YongSeok-Jang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongSeok-Jang)](https://github.com/anuraghazra/github-readme-stats)

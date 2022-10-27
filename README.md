@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Affekt&fontSize=36&desc=나는%20인간%20행위를%20조롱하거나%20한탄하거나%20경멸하기보다는%20이해하기%20위해서%20끊임없는%20노력을%20경주해%20왔다%20-%20스피노자&descSize=12)
 ### Skills
-### Langs
+#### Langs
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?&style=for-the-badge&logo=.NET&logoColor=white)
 ![C#](https://img.shields.io/badge/C%20Sharp-239120.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
@@ -19,4 +19,3 @@
 ![VisualStudio Code](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=YongSeok-Jang&count_private=true)](https://github.com/YongSeok-Jang/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongSeok-Jang)](https://github.com/anuraghazra/github-readme-stats)
